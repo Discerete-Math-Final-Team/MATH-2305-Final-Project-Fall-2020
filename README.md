@@ -15,6 +15,7 @@ MATH 2305 Final Project
 MATH-2305-Final-Project-Fall-2020
 
 Files
+
 **algorithms.py** : This file holds the main algorithm for Prims Minimum Spanning Tree
 
 **drawing.py** : This holds functions to help with plotting and creating visuals
@@ -27,7 +28,7 @@ Files
 
 **test-graphs** : This folder holds the below test graphs
 
-G1.txt
-G2.txt
-G3.txt
-G4.txt
+-G1.txt
+-G2.txt
+-G3.txt
+-G4.txt
