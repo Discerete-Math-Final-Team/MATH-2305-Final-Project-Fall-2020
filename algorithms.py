@@ -22,7 +22,7 @@ def prims_algorithm(G, starting_vertex, show_graph, show_cost):
         total_cost = 0
         for x in E(T): #add up all the weights
             total_cost = total_cost + cost(G,x)
-        print(total_cost)
+        print("the cost of the spanning tree is: " + str(total_cost))
             
     return T
 
