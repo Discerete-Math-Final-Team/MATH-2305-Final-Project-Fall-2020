@@ -28,7 +28,7 @@ Files
 
 **test-graphs** : This folder holds the below test graphs
 
--G1.txt
--G2.txt
--G3.txt
--G4.txt
+- G1.txt
+- G2.txt
+- G3.txt
+- G4.txt
