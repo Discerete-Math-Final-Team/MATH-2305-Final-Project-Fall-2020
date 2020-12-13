@@ -1,7 +1,14 @@
+'''
 import networkx as nx
 from functions import * 
 from drawing import *
 from algorithms import *
+'''
+import networkx as nx
+from functions import * 
+from drawing import *
+from algorithms import *
+
 '''
 will open and return a file object in this case a graph to be read,
 if file is not found will raise an error
