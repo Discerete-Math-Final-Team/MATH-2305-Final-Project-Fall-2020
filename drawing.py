@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt   ## inport matplotlib to plot our subtree and w
 import numpy as np             ### import NumPy for arraw manipulations
 
 def show_weighted_graph(G):
-     """ creates and shows the weightwed graph
+    """ creates and shows the weightwed graph
 
     Parameters
     ----------
