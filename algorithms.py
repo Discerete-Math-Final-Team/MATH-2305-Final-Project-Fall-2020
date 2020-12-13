@@ -1,3 +1,5 @@
+"""Algorithm File"""
+
 from functions import *
 from drawing import *
 import networkx as nx
