@@ -34,10 +34,15 @@ MATH-2305-Final-Project-Fall-2020
 - G3.txt
 - G4.txt
 
-**Explanation**
-- All vertices connected
-- No cycles
-- Minimum Cost Edge
+**Explanation of Prim's Algorithm**
+In Computer Science, Prim's (otherwise called Jarník's) algorithm is a greedy calculation that finds a minimum spanning tree (MST) for a weighted undirected graph. This means that it finds a subset of the edges which shapes a tree that incorporates each vertex, where the weight or "cost" of the relative multitude of edges in the tree is the least possible. Prim's algorithm includes the following steps/restrictions:
+- Selects a random node to begin
+- Checks all the outgoing edge(s) of that node
+- Picks the edge with the least or minimum cost to move through
+- No cycles are allowed
+- All vertices must be connected in the end
+
+
 
 
 
