@@ -10,7 +10,7 @@ from drawing import *
 from algorithms import *
 
 
-graph_data = open('test-graphs/G4.txt','r') #read in the graph you want to test G1-G4
+graph_data = open('test-graphs/G1.txt','r') #read in the graph you want to test G1-G4
 '''
 will open and return a file object from test-graphs folder in this case a graph to be read,
 if file is not found will raise an error
