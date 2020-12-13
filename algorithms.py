@@ -1,11 +1,19 @@
 from functions import *
 from drawing import *
 import networkx as nx
-
+    """"
+    
+    
+    
+    
+    
+    """"
 def prims_algorithm(G, starting_vertex, show_graph, show_cost):
     
     T = prims_initialize(G, starting_vertex)
     
+    Checking the Vertex
+     ------
     if isinstance(T,str) == True: #checks if the vertex exists in the graph
         print(T)
         return T
