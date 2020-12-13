@@ -10,7 +10,7 @@ We import "networkx" in this document so that we can peek into the graphs vertic
 
 def V(graph):
     """"
-    Prameters
+    Parameters
     ---------
     takes in read in graph information from text documents called from main.py
     
