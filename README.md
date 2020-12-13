@@ -42,7 +42,6 @@ MATH-2305-Final-Project-Fall-2020
 
 
 **Reference**
--  https:// realpython.com/documenting-python-code/  
 -  https://realpython.com/documenting-python-code/
 
 
