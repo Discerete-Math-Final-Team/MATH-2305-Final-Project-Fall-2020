@@ -47,7 +47,8 @@ In Computer Science, Prim's (otherwise called Jarník's) algorithm is a greedy c
 
 
 
-**Reference**
+**References**
 -  https://realpython.com/documenting-python-code/
+- https://www.educative.io/edpresso/what-is-prims-algorithm
 
 
