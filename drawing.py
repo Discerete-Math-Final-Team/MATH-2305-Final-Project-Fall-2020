@@ -1,13 +1,13 @@
 import networkx as nx 
 import matplotlib.pyplot as plt
 import numpy as np
-    """"
+"""
 
 
 
 
 
-    """"
+"""
 def show_weighted_graph(G):
     pos = nx.planar_layout(G)
     nx.draw(G, pos)
