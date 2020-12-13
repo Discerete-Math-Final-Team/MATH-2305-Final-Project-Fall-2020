@@ -2,6 +2,7 @@
 
 MATH 2305 Final Project
 
+**MST Python Package**
 **"Prims Algorithm"**
 
 **Group Members:**
@@ -14,7 +15,7 @@ MATH 2305 Final Project
 
 MATH-2305-Final-Project-Fall-2020
 
-Files
+**Files**
 
 **algorithms.py** : This file holds the main algorithm for Prims Minimum Spanning Tree
 
@@ -32,3 +33,10 @@ Files
 - G2.txt
 - G3.txt
 - G4.txt
+
+**Explanation**
+- All vertices connected
+- No cycles
+- Minimum Cost Edge
+
+-Intialization
