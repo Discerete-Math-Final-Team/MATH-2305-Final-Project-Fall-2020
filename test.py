@@ -22,5 +22,5 @@ and will ensure returning a hashable type
 '''
 T= prims_algorithm(G, 0, show_graph = True, show_cost = True)
 '''
-Will then ask for an input for a starting vertex 
+Will then run with 0 as the starting vertex
 '''
