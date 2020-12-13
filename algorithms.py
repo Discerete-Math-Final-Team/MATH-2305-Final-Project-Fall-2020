@@ -1,8 +1,14 @@
+    """
+    Import functions from functions tab.
+    Import fuctions from drawing tab.
+    Import networkx as nx.
+    """
 from functions import *
 from drawing import *
 import networkx as nx
     """"
-    
+    This is an algorithm script file.
+    First we 
     
     
     
