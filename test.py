@@ -3,7 +3,7 @@ from functions import *
 from algorithms import prims_algorithm
 from drawing import *
 '''
-will open and return a file object in this case a graph to be read,
+will open and return a file object from test-graphs folder in this case a graph to be read,
 if file is not found will raise an error
 NetworkX will then generate a plot for the chosen file
 It will then ask for an input for a starting vertex and will
